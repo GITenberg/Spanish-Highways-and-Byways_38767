@@ -1,0 +1,38 @@
+_repo: Spanish-Highways-and-Byways_38767
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38767-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bates, Katharine Lee
+    alias: Bates, Katherine Lee
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '2578'
+    url: http://www.gutenberg.org/2009/agents/2578
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Lee_Bates
+description: Travelogues Collection offers readers a unique glimpse into the diverse
+  landscape, culture and wildlife of the world from the perspective of late 19th and
+  early 20th century esteemed travelers. From the exotic islands of Fiji to the lush
+  jungles of Africa to the bustling streets of New York City, these picturesque backdrops
+  set the scene for amusing, and at times prejudiced, anecdotes of adventure, survival
+  and camaraderie. Photographs and whimsical illustrations complement the descriptive
+  text, bringing to life the colorful characters encountered along the way. The Shelf2Life
+  Travelogues Collection allows readers to embark on a voyage into the past to experience
+  the world as it once was and meet the people who inhabited it.
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38767'
+  lccn: 01029265
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+title: Spanish Highways and Byways
+url: http://www.gutenberg.org/ebooks/38767
